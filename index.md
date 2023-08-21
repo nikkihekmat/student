@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Nikki Hekmat's Blog
+Title: Nikki Hekmat's Blog
 ---
-# Nikki's Notebook
-
-
-## All About Me
-
 ## Fun Facts
+- I have a twin sister.
+- I'm Persian.
+- I love salads--literally any type of salad.
 
 ## Career Goals
 
