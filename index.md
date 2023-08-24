@@ -2,6 +2,8 @@
 layout: default
 Title: Nikki Hekmat's Blog
 ---
+# Nikki Hekmat's Blog
+
 ## Fun Facts
 - I have a twin sister.
 - I'm Persian.
