@@ -2,7 +2,7 @@
 layout: default
 Title: Nikki Hekmat's Blog
 ---
-<center> <h1> <bold> Nikki's Blog </bold> </h1> </center>
+<center> <h1> <b> Nikki's Blog </b> </h1> </center>
 
 ### Fun Facts
 - I have a twin sister.
