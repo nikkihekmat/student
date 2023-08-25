@@ -4,7 +4,7 @@ Title: Nikki Hekmat's Blog
 ---
 
 <style>
-    ul li {
+    #header ul li {
         display: inline-block;
     }
     h1 {
