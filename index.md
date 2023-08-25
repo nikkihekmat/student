@@ -7,10 +7,7 @@ Title: Nikki Hekmat's Blog
     #header ul li {
         display: inline-block;
     }
-    h1 {
-        color:#6E3345;
-    }
-
+   
     section {
         padding-top: 100px;
     }
