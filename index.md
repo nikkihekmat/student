@@ -2,9 +2,14 @@
 layout: default
 Title: Nikki Hekmat's Blog
 ---
-<center> <h1> <b> Nikki's Blog </b> </h1> </center>
 
-<h2> {background-color: #7c334f; font: bold italic .85em/1.5 Georgia; } <h2>
+<style>
+    .fork {
+        color:#6E3345;
+    }
+    </style>
+
+<center> <h1> <b> Nikki's Blog </b> </h1> </center>
 
 
 ### Fun Facts
