@@ -4,6 +4,9 @@ Title: Nikki Hekmat's Blog
 ---
 
 <style>
+    ul li {
+        display: inline-block;
+    }
     h1 {
         color:#6E3345;
     }
