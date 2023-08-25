@@ -12,7 +12,7 @@ Title: Nikki Hekmat's Blog
     }
 
     section {
-        padding-top: 50px;
+        padding-top: -50px;
     }
     </style>
 
