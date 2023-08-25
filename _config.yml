@@ -3,7 +3,7 @@ description: "Currently stressed about college apps"
 show_downloads: true
 owner_name: Nighthawk Coders
 github_username: nighthawkcoders
-baseurl: "/Nikki's Blogs"
+baseurl: "/Nikki's Blog"
 remote_theme: pages-themes/merlot@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
