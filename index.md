@@ -16,8 +16,6 @@ Title: Nikki Hekmat's Blog
     }
     </style>
 
-<center> <h1> <b> Nikki's Blog </b> </h1> </center>
-
 
 ### Fun Facts
 - I have a twin sister.
