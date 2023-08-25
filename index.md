@@ -10,6 +10,10 @@ Title: Nikki Hekmat's Blog
     h1 {
         color:#6E3345;
     }
+
+    section {
+        padding-top: 50px;
+    }
     </style>
 
 <center> <h1> <b> Nikki's Blog </b> </h1> </center>
