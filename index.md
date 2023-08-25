@@ -4,7 +4,7 @@ Title: Nikki Hekmat's Blog
 ---
 
 <style>
-    .fork {
+    h1 {
         color:#6E3345;
     }
     </style>
