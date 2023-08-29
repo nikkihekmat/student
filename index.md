@@ -24,11 +24,3 @@ I have a great passion for social justice and creative writing, so I hope to pur
 
 ## A Drawing About Me
 ![alt text](IMG_1958.jpg)
-
-## Computer Science Lab Notebook
-### Unit 1 Plan
-| Unit 1 | Plan |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
